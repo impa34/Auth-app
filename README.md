@@ -29,4 +29,4 @@ This is a full-stack authentication application built with Node.js + Express + M
 
 ### 📄 License
 
--MIT
+- MIT
